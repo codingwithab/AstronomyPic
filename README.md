@@ -15,3 +15,7 @@ The details which get added are:
 <li>Image</li>
 
 The user is able to delete, save the draft email or send the email. The user is also able to edit the email if they wish to add additional information. Once the email has been sent, the email will be sent to NASA and the email will also be CC'd to the 'Email of Observer'.
+
+### <b>Keyboard:</b>
+
+The keyboard will be present when a text field has been selected. It will cover the tab bar at the bottom. However, when you click on anywhere apart from a text field, the keyboard dissapears and you are able to click on the other tabs.
