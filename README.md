@@ -14,6 +14,7 @@ The details which get added are:
 <li>Location and Date Time - This is dependent on the source of the image.</li>
 <li>Image</li>
 
+
 The user is able to delete, save the draft email or send the email. The user is also able to edit the email if they wish to add additional information. Once the email has been sent, the email will be sent to NASA and the email will also be CC'd to the 'Email of Observer'.
 
 ### <b>Keyboard:</b>
